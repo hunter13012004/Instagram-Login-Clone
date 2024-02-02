@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92181697430",
+    "project_id": "fir-1f798",
+    "storage_bucket": "fir-1f798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92181697430:android:568eb535d6cd8068ab43b7",
+        "android_client_info": {
+          "package_name": "com.example.trykaara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvvhx6epdaGHH8GPhk76qQ3uYFSWrirg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
